@@ -1,0 +1,9 @@
+8
+import-std
+TS::
+new: string str HelloH2PL!
+new: int num 1
+say: ! HelloH2PL!
+say: $ str
+say: $ num
+::TE
